@@ -5,5 +5,9 @@ This repository contains the code implementation semi- and weakly supervised fra
 1. Create conda environment using requirements.
 
 conda create -n nic_mbhseg_submission python anaconda -y 
+
 conda activate nic_mbhseg_submission
+
 pip install -r requirements_simple.txt
+
+Trainer name: nnUNetTrainer_MT.py
