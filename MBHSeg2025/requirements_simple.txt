@@ -1,0 +1,14 @@
+batchgenerators==0.25
+nibabel==5.2.1
+numpy
+MedPy==0.5.2
+pandas
+pillow
+SimpleITK
+torch
+torchaudio
+torchvision
+tqdm
+tensorboardX
+graphviz
+matplotlib
