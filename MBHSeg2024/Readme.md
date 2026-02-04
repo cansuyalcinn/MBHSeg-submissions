@@ -8,10 +8,16 @@ https://arxiv.org/abs/2209.08939
 1. Create conda environment using requirements.
 
 conda create -n mbhseg python=3.9
+
 conda activate mbhseg
+
 pip install -r requirements_simple.txt
 
 2. Run the following comments
-python pipeline.py 
+python pipeline.py
+
 python postprocessing.py 
-The result will be generated in /inference_results folder. 
+
+The result will be generated in /inference_results folder.
+
+Trainer name: nnUNetTrainerV2_SSL
